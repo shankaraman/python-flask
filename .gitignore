@@ -101,4 +101,9 @@
 */.mypy_cache/
 
 # Pycharm
+.idea/
 */.idea/
+
+
+# git files
+.git/
